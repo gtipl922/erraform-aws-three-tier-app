@@ -82,6 +82,6 @@ After deployment, you'll get:
 - VPC and subnet information
 
 ## 🧹 Cleanup
-terraform destroy
+- terraform destroy
 
 
